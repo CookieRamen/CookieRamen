@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![CookieRamen's github stats](https://github-readme-stats.vercel.app/api?username=CookieRamen)](https://github.com/anuraghazra/github-readme-stats)
+[![CookieRamen's github stats](https://github-readme-stats.vercel.app/api?username=CookieRamen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CookieRamen/CookieRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
