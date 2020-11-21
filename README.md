@@ -2,6 +2,8 @@
 
 
 [![CookieRamen's github stats](https://github-readme-stats.vercel.app/api?username=CookieRamen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CookieRamen&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **CookieRamen/CookieRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
